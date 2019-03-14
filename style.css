@@ -1,0 +1,116 @@
+body
+{
+	color: black;
+	background-color: white;
+	background-repeat: repeat;
+	background-image: url("background.jpg");
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	margin: auto;
+	text-align: center;
+}
+#menu
+{
+	background: deepskyblue;
+	font-size: 20px;
+	position: fixed;
+	color: chocolate;
+	width: 99%;
+	height: 35px;
+  border: 1px solid powderblue;
+	padding: 10px;
+}
+#about
+{
+	background-image: url("background5.png");
+	background-size: 40%;
+	background-repeat: no-repeat;
+	background-position: center
+	/* margin: auto;
+	width: 40%;
+	color: #001F36;
+	direction: rtl; */
+}
+#photos
+{
+	background-position: center;
+	background-image: url("background1.jpg");
+	background-repeat: no-repeat;
+  background-size: 90%;
+	/* background-color: #001F36; */
+  padding: 10px;	
+}
+#playlist
+{
+	color: #001F36;
+	/* background-color: #EBDC6A; */
+  padding: 10px;	
+}
+#like
+{
+	/* color: #001F36; */
+	background-position: center;
+	background-image: url("background2.jpg");
+	background-repeat: no-repeat;
+  background-size: 90%;
+}
+#qrcoder{
+	color: #001F36;
+	padding: 10px;
+}
+#contact 
+{
+	/* background-color: #001F36; */
+  padding: 10px;	
+}#welcome
+{
+	/* background-color: #001F36; */
+	padding: 10px;
+}
+h1
+{
+	color: rgb(10, 81, 233);
+	font-size: 30px;
+	text-decoration: underline;
+}
+h2
+{
+	font-size: 20px;
+}
+a:link
+{
+  color: white;
+	text-decoration: none
+}
+a:visited
+{
+  color: white;
+}
+a:hover
+{
+  color: blue;
+}
+a:active
+{
+  color: darkblue;
+}
+section
+{
+	margin: auto;
+  width: 70%;
+}
+
+#qanda 
+{
+	
+	/* background-color: #001F36; */
+	background-position: center;
+	background-image: url("background1.jpg");
+	background-repeat: no-repeat;
+
+	opacity: inherit;
+}
+#ansss
+{
+	width: 70%;
+  	
+}
